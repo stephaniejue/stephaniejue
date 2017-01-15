@@ -2178,6 +2178,11 @@
 			font-size: 3.5em;
 		}
 
+		#banner p {
+			margin-left: 1.1em;
+
+		}
+
 	}
 
 	@media screen and (max-width: 980px) {
@@ -2197,6 +2202,10 @@
 
 		h2 {
 			font-size: 1.5em;
+		}
+		#banner p {
+			margin-left: .6em;
+
 		}
 
 	}
@@ -3888,10 +3897,6 @@
 			margin-left: .25em;
 		}
 
-		#banner p {
-			margin-left: 1.1em;
-
-		}
 		#banner #me-brief {
 			color: transparent;
 		}
@@ -3988,6 +3993,11 @@
 
 			#banner {
 				height: 30em;
+			}
+
+			#banner p {
+				margin-left: .5em;
+
 			}
 
 		}
